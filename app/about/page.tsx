@@ -1,5 +1,6 @@
 "use client"
 
+
 import Image from "next/image";
 import { ChefHat, Leaf, Wine } from "lucide-react";
 import AnimatedElement from "@/components/AnimatedElement";
